@@ -5,3 +5,4 @@ cls
 echo Here are files encrypted:
 ping localhost -n 4 >NUL
 echo %data%
+pause
